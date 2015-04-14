@@ -1,0 +1,41 @@
+@charset "UTF-8";
+
+h2 {
+color:#aaa;	
+}
+
+#twitchform label {
+color:#fff;
+}
+
+#twitchform input.text {
+color:#fff;
+border-top:2px solid #222;
+}
+
+#twitchform input.submit {
+color:#fff;
+padding:9px;
+border:1px solid #d3640c;
+}
+
+#twitchform input.submit:active {
+top:1px;
+}
+
+#twitchsubmit {
+top:20px;	
+}
+
+.tweet_list li,#progressmessage {
+border-bottom:3px solid #ccc;	
+}
+
+#progressmessage p {
+color:#aaa;	
+}
+
+footer {
+color:#666;	
+}
+

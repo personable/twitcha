@@ -1,0 +1,31 @@
+@charset "UTF-8";
+/* CSS Document */
+
+#content {
+min-width:650px;
+}
+
+header {
+padding:0 0 10px 0;
+overflow:hidden;
+height:35px;
+position:relative;
+}
+
+h1 {
+width:165px;
+height:35px;
+background-image:url(../img/background/h1-logo-small.png);
+/*-webkit-animation-name:bounce-vertical;
+-webkit-animation-duration:.1s;
+-webkit-animation-iteration-count:10;
+-webkit-animation-direction:alternate;
+position:relative;
+left:0;*/	
+}
+
+h2 {
+position:absolute;
+right:0;
+top:18px;	
+}
